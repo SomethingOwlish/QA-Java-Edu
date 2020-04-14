@@ -1,3 +1,2 @@
 # QA-Java-Edu
 
-&&&
