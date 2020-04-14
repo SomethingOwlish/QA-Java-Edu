@@ -1,4 +1,4 @@
-/.idea/
+
 /QA-Java-Edu.iml
 
 
@@ -92,3 +92,6 @@ modules.xml
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/intellij+all
+
+/src/
+
