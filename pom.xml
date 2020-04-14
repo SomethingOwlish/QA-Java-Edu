@@ -12,5 +12,6 @@
         <module>junit</module>
         <module>testNG</module>
         <module>model</module>
+        <module>owner</module>
     </modules>
 </project>
